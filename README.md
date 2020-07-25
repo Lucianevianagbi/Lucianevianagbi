@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 
 
+- 🌱 Atualmente estou aprendendo o  basico de programação, conceitos simple...
+- 🤔 Estou  aprendendo e estudando como criar Sites com Wordpress...
 <!--
 **Lucianevianagbi/Lucianevianagbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
