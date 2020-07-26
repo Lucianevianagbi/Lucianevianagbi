@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 💻 😍 Atualmente estou aprendendo o  basico de programação, conceitos simples ...
 - 😃 Estou  aprendendo e estudando como criar Sites com Wordpress...
+-  ❤ Html Css
 
 [linkedin](https://www.linkedin.com/in/luciane-viana-38890a182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bwh6PY5XDSTiXtWf88CG0Qw%3D%3D/)
 
