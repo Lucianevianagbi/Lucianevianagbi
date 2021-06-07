@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Olá  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">
 
 - 💻 😍 Atualmente estou aprendendo o  basico de programação, conceitos simples ...
--  ❤ Html Css
+-  ❤ HTML CSS JAVASCRIPT
 
 
 
