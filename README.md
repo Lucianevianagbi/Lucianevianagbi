@@ -6,8 +6,10 @@
 
 ### ❤ HTML  CSS  JAVASCRIPT  FIGMA
 
+<p align="left">
 <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img1.png" width="60px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img2.png" width="60px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img3.png" width="70px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/figma.png" width="80px">
 <br> 
+</p>
 
 <a href="https://www.linkedin.com/in/luciane-viana/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciane-viana/"/></a>
 <a href="https://www.youtube.com/channel/UCo4ROwwxi_KTCkA89N4CKyw" target="blank"><img alt="Youtube Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCo4ROwwxi_KTCkA89N4CKyw"/></a>
