@@ -2,11 +2,11 @@
 
 ## Olá  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">
 
-### 💻 😍 Atualmente estou aprendendo o  basico de programação, conceitos simples ...
+### 💻 👩‍💻 😍 Atualmente estou aprendendo o  basico de programação, conceitos simples ...
 
 ### ❤ HTML  CSS  JAVASCRIPT
 
-<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img1.png" width="60px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img2.png" width="60px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img3.png" width="70px">
+<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img1.png" width="60px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img2.png" width="60px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img3.png" width="70px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/figma.png" width="60px">
 <br> 
 
 <a href="https://www.linkedin.com/in/luciane-viana/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciane-viana/"/></a>
