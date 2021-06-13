@@ -1,25 +1,29 @@
 
-<!--
-**Lucianevianagbi/Lucianevianagbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 
 ## Olá  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">
 
-- 💻 😍 Atualmente estou aprendendo o  basico de programação, conceitos simples ...
--  ❤ HTML CSS JAVASCRIPT
+### 💻 😍 Atualmente estou aprendendo o  basico de programação, conceitos simples ...
+
+### ❤ HTML CSS JAVASCRIPT
+<br>
+
+<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/master/img1.png" width="30px">
+
+<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/master/img2.png" width="30px">
+
+<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/master/img3.png" width="30px">
+<br> <br>
 
 
+<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/master/img5.png" width="30px">
+
+## :link: LinkedIn: https://www.linkedin.com/in/luciane-viana
+<br>
+
+
+<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/master/img4.png" width="30px">
+
+## :link: Youtube: https://www.youtube.com/channel/UCo4ROwwxi_KTCkA89N4CKyw
+<br>
 
 
