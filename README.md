@@ -4,7 +4,7 @@
 
 ### 💻 👩‍💻 😍 Atualmente estou aprendendo o  basico de programação, conceitos simples ...
 
-### ❤ HTML  CSS  JAVASCRIPT
+### ❤ HTML  CSS  JAVASCRIPT  FIGMA
 
 <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img1.png" width="60px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img2.png" width="60px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img3.png" width="70px"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/figma.png" width="80px">
 <br> 
