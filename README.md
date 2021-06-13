@@ -7,7 +7,7 @@
 ### ❤ Html  Css  Javascript  Figma
 
 <p align="left">
-<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img1.png" width="30px" height="40"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img2.png" width="30px" height="40"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img3.png" width="40px" height="40"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/figma.png" width="40px" height="40">
+<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img1.png" width="50px" height="40"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img2.png" width="50px" height="40"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/img3.png" width="50px" height="40"> <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/figma.png" width="50px" height="40">
 <br> 
 </p>
 
