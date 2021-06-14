@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/Frame 2.jpg">
+<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/capa.png">
 
 
 ## Olá  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">
