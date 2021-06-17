@@ -16,6 +16,7 @@
 <div align="center">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Lucianevianagbi&show_icons=true&theme=dracula"> 
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianevianagbi&layout=compact&theme=dracula"> 
+  </div>
 
 <h2 align="center">Linguagens e Ferramentas</h2>
 <br>
