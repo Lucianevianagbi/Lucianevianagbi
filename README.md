@@ -38,6 +38,10 @@
 
 <br>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a470f2fe432959e9ec3bab51cb5842b117399790
 ![Snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/github-contribution-grid-snake.svg)
 
 
