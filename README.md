@@ -15,6 +15,7 @@
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucianevianagbi&show_icons=true&theme=dracula"> 
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianevianagbi&layout=compact&theme=dracula"> 
 </div>
 
@@ -37,12 +38,8 @@
 
 <br>
 
-
-
-<div align="center">
-
 ![Snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/github-contribution-grid-snake.svg)
 
-</div>
+
 
 
