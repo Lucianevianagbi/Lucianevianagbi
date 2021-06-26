@@ -34,15 +34,20 @@
   </div>
   </p>
 
+<div align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/luciane-viana/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciane-viana/"/></a>
 <a href="https://www.youtube.com/channel/UCo4ROwwxi_KTCkA89N4CKyw" target="blank"><img alt="Youtube Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCo4ROwwxi_KTCkA89N4CKyw"/></a>
 <a href="https://www.behance.net/lucianevianna" target="blank"><img alt="Behance Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/luciane_viana"/></a>
+</p>
 
+<br>
 
 ![Snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/blob/output/github-contribution-grid-snake.svg)
 
-</p>
+ <br>
+
+</div>
 
 
 
