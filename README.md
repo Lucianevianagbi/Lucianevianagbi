@@ -38,9 +38,6 @@
 <br>
 
 
-
-<div align="center">
-
 ![Snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/github-contribution-grid-snake.svg)
 
 </div>
