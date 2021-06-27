@@ -13,7 +13,7 @@
 
 <br>
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/ProfileViewsHit?user=Lucianevianagbi&repo=Lucianevianagbi-rg&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lucianevianagbi&repo=Lucianevianagbi-rg&countColorcountColor)
 
 <br>
 
