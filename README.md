@@ -13,7 +13,13 @@
 
 <br>
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lucianevianagbi&repo=Lucianevianagbi-rg&countColorcountColor)
+<div align="center">
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=Lucianevianagbi&color=blueviolet&style=plastic)
+  [![Repos Badge](https://badges.pufler.dev/repos/Lucianevianagbi?color=blueviolet&style=plastic)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/yearly/Lucianevianagbi?color=blueviolet&style=plastic)](https://badges.pufler.dev)
+  
+</div>
 
 <br>
 
@@ -39,8 +45,5 @@
 <a href="https://www.youtube.com/channel/UCo4ROwwxi_KTCkA89N4CKyw" target="blank"><img alt="Youtube Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCo4ROwwxi_KTCkA89N4CKyw"/></a>
 <a href="https://www.behance.net/lucianevianna" target="blank"><img alt="Behance Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/luciane_viana"/></a>
 </p>
-
-
-![Snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/blob/output/github-contribution-grid-snake.svg)
 
 
