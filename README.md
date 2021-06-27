@@ -46,5 +46,5 @@
 <a href="https://www.behance.net/lucianevianna" target="blank"><img alt="Behance Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/luciane_viana"/></a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Lucianevianagbi/Lucianevianagbi/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/tree/master/.github/workflows/output/github-contribution-grid-snake.svg)
 
