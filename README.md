@@ -42,7 +42,7 @@
 
  <div align="center">
 
-![Snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/.github/workflows/cobrinha.yml)
 
 </div>
 
