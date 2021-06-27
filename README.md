@@ -13,7 +13,7 @@
 
 <br>
 
-![Profile Views](http://estruyf-github.azurewebsites.net/api/ProfileviewHit?user=Lucianevianagbi&repo=Lucianevianagbi-rg&countColorcountColor)
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Lucianevianagbi&repo=Lucianevianagbi-rg&countColorcountColor)
 
 <br>
 
@@ -42,7 +42,7 @@
 
  <div align="center">
 
-![Snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/output/github-contribution-grid-snake.svg)
 
 </div>
 
