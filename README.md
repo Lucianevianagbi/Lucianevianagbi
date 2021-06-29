@@ -7,7 +7,7 @@
 <p align="justified">
 
 <p align="right">
-<img reight= "10em" width="150px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
+<img reight= "10em" width="50px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
 </p>
 
 ## 💻 👩‍💻 😍 Atualmente estou aprendendo o básico de programação, conceitos simples ...
