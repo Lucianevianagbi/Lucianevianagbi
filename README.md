@@ -10,8 +10,8 @@
 
 ### ❤ Html  Css  Javascript  Figma 
 
-<p align="right">
-<img reight= "180em"line-height="15px" width="100px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
+<p align="center">
+<img reight= "180em"line-height="15px" width="150px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
 </p>
 
 </div>
