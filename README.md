@@ -9,7 +9,12 @@
 ## 💻 👩‍💻 😍 Atualmente estou aprendendo o básico de programação, conceitos simples ...
 
 ### ❤ Html  Css  Javascript  Figma
+
 </P>
+
+<p align="right">
+<img reight= "180em" width="150px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
+</p>
 
 <br>
 
