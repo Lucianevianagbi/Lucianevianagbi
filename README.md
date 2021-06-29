@@ -4,21 +4,17 @@
 
 ## Olá  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">
 
-<p align="justified">
-
-<p align="right">
-<img reight= "10em" width="50px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
-</p>
+<div align="justified">
 
 ## 💻 👩‍💻 😍 Atualmente estou aprendendo o básico de programação, conceitos simples ...
 
 ### ❤ Html  Css  Javascript  Figma 
 
+<p align="right">
+<img reight= "180em"line-height="15px" width="100px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
+</p>
 
-
-</P>
-
-
+</div>
 
 <br>
 
