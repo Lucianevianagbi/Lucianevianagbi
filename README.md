@@ -35,7 +35,7 @@
 <code><img height="40" src="https://camo.githubusercontent.com/b059b3150634ebbb37fac310309b3c4a841b0ecdabcc7409c0067397f8a3931b/687474703a2f2f696f31332d686967682d6470692e61707073706f742e636f6d2f696d616765732f435353335f4c6f676f2e737667" title="CSS"></code> 
 <code><img height="40" src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" title="JAVASCRIPT"></code> 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="FIGMA"></code>
-<img reight= "180em" align="justified" width="150px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
+<img reight= "180em" align="right" width="150px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
   </div>
   </p>
 
