@@ -2,13 +2,11 @@
 <img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/capav.jpg">
 
 
-## Olá  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">
+## Olá Devs <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px"> 
 
 <div align="justified">
 
-## 💻 👩‍💻 😍 Atualmente estou aprendendo o básico de programação, conceitos simples ...
-
-### ❤ Html  Css  Javascript  Figma 
+## 💻 👩‍💻 😍 Apaixonada por ciência e tecnologia </>...
 
 <br>
 
