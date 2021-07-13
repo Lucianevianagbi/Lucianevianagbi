@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/capav.png">
+<img src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/capav.jpg">
 
 
 ## Olá  <img src="https://github.com/everton-dgn/everton-dgn/blob/main/gif/Hi.gif?raw=true" width="30px">
@@ -27,7 +27,7 @@
 <img height="180em" width=400px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianevianagbi&layout=compact&theme=dracula"> 
 </div>
 
-<h2 align="center">Linguagens e Ferramentas</h2>
+<h2 align="center">Linguagens e Ferramentas</h2> 
 <br>
 <p align="center">
   <div align="center">
