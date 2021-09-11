@@ -40,7 +40,7 @@
   </div>
   </p>
 <br>
-  <h2 align="center">CONTATO</h2> 
+  <h2 align="center">Contato</h2> 
 <br>
 
 
