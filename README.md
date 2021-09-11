@@ -39,6 +39,9 @@
 <img reight= "180em" align="right" width="150px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
   </div>
   </p>
+<br>
+  <h2 align="center">CONTATO</h2> 
+<br>
 
 
 <p align="center">
@@ -46,6 +49,7 @@
 <a href="https://www.youtube.com/channel/UCo4ROwwxi_KTCkA89N4CKyw" target="blank"><img alt="Youtube Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCo4ROwwxi_KTCkA89N4CKyw"/></a>
 <a href="https://www.behance.net/lucianevianna" target="blank"><img alt="Behance Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/luciane_viana"/></a>
 <a href="https://codepen.io/lucianevianagbi" target="blank"><img alt="codepen Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=codepen&logoColor=white&link=https://codepen.io/lucianevianagbi"/></a>
+<a href="https://www.twitch.tv/luciane_viana" target="blank"><img alt="twitch Badge" src="https://img.shields.io/badge/-Luciane%20Viana-563D7C?style=flat-square&logo=twitch&logoColor=white&link=https://twitch/lucianevianagbi"/></a>
 </p>
 
 
