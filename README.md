@@ -33,6 +33,9 @@
 <code><img height="40" src="https://camo.githubusercontent.com/b059b3150634ebbb37fac310309b3c4a841b0ecdabcc7409c0067397f8a3931b/687474703a2f2f696f31332d686967682d6470692e61707073706f742e636f6d2f696d616765732f435353335f4c6f676f2e737667" title="CSS"></code> 
 <code><img height="40" src="https://www.seekpng.com/png/full/80-803501_javascript-logo-logo-de-java-script-png.png" title="JAVASCRIPT"></code> 
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="FIGMA"></code>
+<code><img height="40" src="https://www.solarwinds.com/-/media/solarwinds/swdcv2/licensed-products/service-desk/integrations/sd-integrations-logo-jira.ashx?rev=701fbaa7f8ac4ae08e0406c8984c43e7&hash=75D4F04DE99B88DE7B2C4193F0616F1F" title="JIRA"></code>
+<code><img height="40" src="https://media.treasy.com.br/media/2016/02/scrum-logo.png" title="SCRUM"></code>
+<code><img height="40" src="https://pbs.twimg.com/profile_images/1361722806694785027/UY7DlO0a.png" title="TRELLO"></code>
 <img reight= "180em" align="right" width="150px" src="https://github.com/Lucianevianagbi/Lucianevianagbi/blob/master/img/imgpc.png">
   </div>
   </p>
